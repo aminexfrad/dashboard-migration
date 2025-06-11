@@ -80,7 +80,7 @@ function App() {
             Dashboard Suivi PDA CAMUNDA
           </h1>
           <p className="text-lg text-gray-600">
-            Suivi des indicateurs de performance et de migration
+            Suivi des indicateurs de performance et de integration
           </p>
         </div>
 
