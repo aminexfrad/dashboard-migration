@@ -77,7 +77,7 @@ function App() {
         {/* En-tête */}
         <div className="mb-8">
           <h1 className="text-4xl font-bold text-gray-900 mb-2">
-            Tableau de Bord Migration
+            Dashboard Suivi PDA CAMUNDA
           </h1>
           <p className="text-lg text-gray-600">
             Suivi des indicateurs de performance et de migration
